@@ -1,16 +1,41 @@
 # foodapp
 
-A new Flutter project.
+## Recibe_Cooking_guide_App
+Recibe Cooking Guide App is a comprehensive mobile application designed to help users explore, learn, and follow a wide variety of recipes. Whether you're a beginner or an experienced chef, this app provides an intuitive interface and rich features to enhance your cooking experience. The app offers detailed recipe information, an interactive user interface, and a smooth navigation experience to help you cook meals like a pro!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+##  Recibe_Cooking_guide_App Mockup
 
-A few resources to get you started if this is your first Flutter project:
+### Features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Splash  Screens**
+   
+   ![alt text](<Splash Pic.PNG>)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Home Feature**  
+   
+   ![alt text](<Home Feature Pic.PNG>)
+
+3. **Details Feature Screens**  
+
+  ![alt text](<Details Pic.PNG>)
+
+
+
+---
+
+### Packages Used in the Project:
+
+- [dio](https://pub.dev/packages/dio) 
+- [flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view) 
+- [share_plus](https://pub.dev/packages/share_plus) 
+- [url_launcher](https://pub.dev/packages/url_launcher) 
+- [carousel_slider](https://pub.dev/packages/carousel_slider) 
+
+
+---
+
+### Project Highlights:
+
+- **Clean Code**: Following best practices in Flutter development.
+- **MVC Architecture**: Organizing code into clearly defined layers for maintainability and scalability.
